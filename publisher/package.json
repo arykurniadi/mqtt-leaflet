@@ -1,0 +1,16 @@
+{
+  "name": "map-publisher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/polyline": "^1.2.1",
+    "mqtt": "^5.0.5"
+  }
+}
